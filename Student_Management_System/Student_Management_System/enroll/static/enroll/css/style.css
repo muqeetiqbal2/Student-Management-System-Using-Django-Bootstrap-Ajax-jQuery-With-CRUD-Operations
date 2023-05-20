@@ -1,0 +1,8 @@
+#main {
+    background-image: linear-gradient(95deg, #a9fff9 25%, transparent 75%, transparent 75%, #f4e5b2 90%, #aebaff), linear-gradient(45deg, #00a4af 25%, transparent 25%, transparent 75%, #027fb4 75%, #00a4af);
+    max-width: 1500px;
+    margin: 8px auto;
+    padding: 45px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgb(123, 154, 255);
+  }
